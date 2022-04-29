@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi! I'm Vinicius Araujo
 
-<!--
-**Santana-Vinicius/Santana-Vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about development! 
+I'm from Brazil! 🇧🇷
 
-Here are some ideas to get you started:
+**Abou Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently working with iOS development
+- 🌱 I’m learning about Apple Development
+- 📫 How to reach me: ara.vini@outlook.com
+- 😄 Pronouns: He/Him
+
+
+<div align="center">
+  <a href="https://github.com/Santana-Vinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santana-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana-Vinicius&layout=compact&langs_count=7&theme=dark" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+</div>
+  
+  ##
